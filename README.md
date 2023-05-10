@@ -29,6 +29,19 @@ in the CVBS website.</p>
 vaccination and tracking for the Covid-19 area. The goal of this project is to provide
 fast and efficient services regarding covid-19 to different users.</p>
 
+admin login:
+admin@gmail.com
+admin@123
+
+user login:
+james@gmail.com
+james@123
+
+ali@gmail.com
+ali@123
+
+rachel@gmail.com
+rachel@123
 
 ## **Tools & Technology Usage:**
 1. HTML
