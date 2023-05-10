@@ -31,16 +31,20 @@ fast and efficient services regarding covid-19 to different users.</p>
 
 ## **Admin login:** <br>
 Email: admin@gmail.com
+<br>
 Password: admin@123
 
 ## **User login:** <br>
 Email: james@gmail.com
+<br>
 Password: james@123
 <br>
 Email: ali@gmail.com
+<br>
 Password: ali@123
 <br>
 Email: rachel@gmail.com
+<br>
 Password: rachel@123
 
 ## **Tools & Technology Usage:**
