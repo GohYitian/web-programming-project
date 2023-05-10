@@ -29,11 +29,11 @@ in the CVBS website.</p>
 vaccination and tracking for the Covid-19 area. The goal of this project is to provide
 fast and efficient services regarding covid-19 to different users.</p>
 
-**admin login:** 
+## **Admin login:** <br>
 Email: admin@gmail.com
 Password: admin@123
 
-**user login:** 
+## **User login:** <br>
 Email: james@gmail.com
 Password: james@123
 <br>
